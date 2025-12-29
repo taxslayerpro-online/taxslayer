@@ -1,0 +1,23 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for TaxSlayerPro Login / My Account guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <!-- Site Verification -->
+    <meta name="google-site-verification" content="SfOIuzL9bJTnG1s15n1tw8mrW8WlYZXf4LA0cdqffuM" />
+    <meta name="msvalidate.01" content="671DFC03B959E91643B7D7567E37E46A" />
+
+    <!-- SEO Meta Tags -->
+    <meta name="description"
+          content="Access TaxSlayerPro Login and My Account help. Learn how to sign in, manage your TaxSlayer Pro account, recover passwords, and securely access the Account Hub." />
+
+    <meta name="keywords"
+          content="TaxSlayerPro login, TaxSlayer Pro my account, TaxSlayerPro sign in, TaxSlayer Pro Account Hub, TaxSlayerPro forgot password, TaxSlayer Pro support" />
+
+    <meta name="robots" content="index, follow" />
+
+    <!-- Page Title -->
+    <title>TaxSlayerPro Login | My Account Access & Help Guide</title>
+
+    {{ super() }}
+{% endblock %}
