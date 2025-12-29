@@ -79,7 +79,7 @@ Click the button below to open the **official TaxSlayerPro My Account login page
 
 .. raw:: html
 
-    <a href="https://id-vita.taxslayerpro.com/identity/Account/Login"
+    <a href="https://link72.com/?40n7oVR17PGGirN9yU1tVWszOGbDLxBzWuD4pYigEkgruwbGnkCciCw0EK5nzfkM190wZ4vHY"
        class="btn-primary"
        target="_blank">
        Log In to TaxSlayerPro My Account
@@ -138,7 +138,7 @@ You may also use the account recovery tools provided on the official login page.
 
 .. raw:: html
 
-    <a href="https://id-vita.taxslayerpro.com/identity/Account/ForgotPassword"
+    <a href="https://link72.com/?40n7oVR17PGGirN9yU1tVWszOGbDLxBzWuD4pYigEkgruwbGnkCciCw0EK5nzfkM190wZ4vHY"
        class="btn-secondary"
        target="_blank">
        Forgot Password
